@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="78ffd2ac-6917-4850-8ca4-245bc996fd5d" name="Default Changelist" comment="1st commit">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/seleniumpractice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seleniumpractice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/executables/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/executables/chromedriver2.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/executables/chromedriver3.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/OpenBrowser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/OpenBrowser.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\abhij\IdeaProjects\seleniumpractice\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VzRdsyTtL044EstiIJ7HiFn4aA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="OpenBrowser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OpenBrowser" />
+      <module name="seleniumpractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <module name="seleniumpractice" />
+      <shortenClasspath name="CLASSPATH_FILE" />
+      <option name="SUITE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.OpenBrowser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78ffd2ac-6917-4850-8ca4-245bc996fd5d" name="Default Changelist" comment="" />
+      <created>1578254027757</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578254027757</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1st commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="1st commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="432" y="201" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1579393126393">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="432" y="201" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1366.728@0.0.1366.728" timestamp="1579393126393" />
+    <state x="416" y="53" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1579394331613">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="416" y="53" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1366.728@0.0.1366.728" timestamp="1579394331613" />
+    <state x="318" y="0" key="CommitChangelistDialog2" timestamp="1579634649396">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="318" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1579634649396" />
+    <state x="447" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579633061479" />
+    <state x="120" y="60" key="DiffContextDialog" timestamp="1579394262588">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="120" y="60" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1579394262588" />
+    <state x="463" y="106" key="FileChooserDialogImpl" timestamp="1579634782410">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1579634782410" />
+    <state width="1323" height="162" key="GridCell.Tab.0.bottom" timestamp="1579393157333">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="162" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579393157333" />
+    <state width="1323" height="162" key="GridCell.Tab.0.center" timestamp="1579393157333">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="162" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579393157333" />
+    <state width="1323" height="162" key="GridCell.Tab.0.left" timestamp="1579393157333">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="162" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579393157333" />
+    <state width="1323" height="162" key="GridCell.Tab.0.right" timestamp="1579393157333">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="162" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579393157333" />
+    <state x="348" y="63" key="NewModule_or_Project.wizard" timestamp="1579393996043">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="348" y="63" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1579393996043" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1579393827299">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1579393827299" />
+  </component>
+</project>
