@@ -22,20 +22,6 @@ public class OpenBrowser {
         driver.manage().deleteAllCookies();
         driver.manage().timeouts().implicitlyWait(2, TimeUnit.SECONDS);
         driver.get("http://www.netflix.com");
-        driver.findElement(By.linkText("Sign In")).click();
-        driver.findElement(By.xpath(".//input[@name='userLoginId']")).clear();
-        driver.findElement(By.xpath(".//input[@name='userLoginId']")).sendKeys("abhishekmandal2014@gmail.com");
-        driver.findElement(By.xpath(".//input[@name='password']")).clear();
-        driver.findElement(By.xpath(".//input[@name='password']")).sendKeys("Iphone@18");
-        driver.findElement(By.xpath(".//button[@class='btn login-button btn-submit btn-small']")).click();
-        driver.findElement(By.linkText("ABHISHEK")).click();
-        driver.findElement(By.xpath(".//span[@class='icon-search']")).click();
-        List<WebElement> links=driver.findElements(By.tagName("a"));
-        System.out.println("No of links on the page = "+links.size());
-        for(int i=1;i<links.size();i++)
-            System.out.println("Link "+i+" is "+driver.findElement(By.tagName("a")));
-        driver.findElement(By.xpath("/html//div[@id='appMountPoint']/div/div//div[@class='bd dark-background']//div[@class='pinning-header-container']/div[@role='navigation']//input")).sendKeys("Tanu Weds Manu 2");
-
     }
 
 }
